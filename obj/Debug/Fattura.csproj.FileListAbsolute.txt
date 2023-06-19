@@ -1,0 +1,8 @@
+C:\Users\Dino\Desktop\COR ROC RSA\CrypterC\Fattura\bin\Debug\Fattura.exe.config
+C:\Users\Dino\Desktop\COR ROC RSA\CrypterC\Fattura\bin\Debug\Fattura.exe
+C:\Users\Dino\Desktop\COR ROC RSA\CrypterC\Fattura\bin\Debug\Fattura.pdb
+C:\Users\Dino\Desktop\COR ROC RSA\CrypterC\Fattura\obj\Debug\Fattura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dino\Desktop\COR ROC RSA\CrypterC\Fattura\obj\Debug\Fattura.csproj.CoreCompileInputs.cache
+C:\Users\Dino\Desktop\COR ROC RSA\CrypterC\Fattura\obj\Debug\Fattura.exe
+C:\Users\Dino\Desktop\COR ROC RSA\CrypterC\Fattura\obj\Debug\Fattura.pdb
+C:\Users\Dino\Desktop\COR ROC RSA\CrypterC\Fattura\obj\Debug\Fattura.csproj.AssemblyReference.cache
